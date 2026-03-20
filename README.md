@@ -41,7 +41,7 @@ This tool empowers users to **access government benefits efficiently**, reducing
 | Modular Design | Organized code structure for maintainability and scalability |
 | Easy to Use | Terminal-based interface with clear, step-by-step prompts |
 | Extensible | New schemes and rules can be added easily without code overhaul |
-| Internship Ready | Clean, professional, and fully demonstrable for applications and interviews |
+
 
 ---
 
