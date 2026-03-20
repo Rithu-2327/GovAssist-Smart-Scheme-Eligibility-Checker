@@ -73,29 +73,30 @@ This tool empowers users to **access government benefits efficiently**, reducing
 
 1. Open terminal in the project root:
 
-
+```bash
 cd D:\Alpha\Scheme-Eligibilty-checker
+```
 
 2. Compile all files:
 
-
+```
 javac -d out src\com\scheme\model\*.java src\com\scheme\data\*.java src\com\scheme\service\*.java src\com\scheme\Main.java
-
+```
 3. Run the program:
 
-
+```
 java -cp out com.scheme.Main
-
+```
 4. Enter your details as prompted to receive eligible schemes with official links.
 
 ----
-Impact Statement
+## Impact Statement
 
 GovAssist empowers citizens to discover government benefits they are entitled to, making public welfare programs more accessible. It is particularly useful for students, farmers, and low-income households seeking financial, health, and educational support.
 
 -----
 
-License
+## License
 
 MIT License
 
